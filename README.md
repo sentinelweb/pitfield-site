@@ -3,10 +3,18 @@
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
 
 ## Getting Started
-
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+*  `git clone https://github.com/sentinelweb/pitfield-site.git`
+*  `cd pitfield-site/`
+*  `ls`
+*  `npm init`
+*  `npm install gulp`
+*  `npm install gulp-less`
+*  `npm install browser-sync`
+*  `npm install gulp-header`
+*  `npm install gulp-clean-css`
+*  `npm install gulp-rename`
+*  `npm install gulp-uglify`
+*  `./node_modules/gulp/bin/gulp.js`
 
 ## Bugs and Issues
 
